@@ -24,8 +24,23 @@ SAP R/3 is SAP’s integrated software solution for client/server and distribute
 Reference: [History of S/4Hana]
 
 
+## TASKS THAT ARE COMPLETED:
 
+1]Business Technology Platform Setup 
+Reference :[https://developers.sap.com/group.btp-setup.html]
 
+2] SAP HANA Cloud Setup
+Reference: [https://developers.sap.com/tutorials/hana-cloud-deploying.html]
+
+3] Business Application Studio Setup
+Reference : [https://developers.sap.com/tutorials/appstudio-onboarding.html]
+
+4] a]Creation of HANA Project using template
+   b]Explore the project structure and HANA Connections
+   c]Create a table and load data into it
+   d]Have your objects pushed to your existing git repository and also document the references in readme file
+
+Reference: [https://developers.sap.com/tutorials/hana-cloud-create-db-project.html]
 
 
 
